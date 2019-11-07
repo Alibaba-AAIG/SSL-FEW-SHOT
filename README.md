@@ -12,7 +12,7 @@ The following packages are required to run the scripts:
 - Package [tensorboardX](https://github.com/lanpa/tensorboardX)
 
 ## Result
-
+![MiniImage_Resule](imgs/mini_image_result.png)
 ## Usage
 
 ### Pre-Trained Models
