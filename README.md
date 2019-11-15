@@ -50,5 +50,17 @@ python train_protonet.py --lr 0.0001 --temperature 128   \
 
 [Learning Embedding Adaptation for Few-Shot Learning](https://arxiv.org/abs/1812.03664)
 
+## Citation
+@misc{chen2019selfsupervised,
+    title={Self-Supervised Learning For Few-Shot Image Classification},
+    author={Da Chen and Yuefeng Chen and Yuhong Li and Feng Mao and Yuan He and Hui Xue},
+    year={2019},
+    eprint={1911.06045},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+## Contact
+For questions please contact Yuefeng Chen at yuefeng.chenyf@alibaba-inc.com.
+
 ## Acknowledgements
 This code is built on [FEAT](https://github.com/Sha-Lab/FEAT) (PyTorch) and [AMDIM](https://github.com/Philip-Bachman/amdim-public) (PyTorch). We thank the authors for sharing their codes.
