@@ -1,5 +1,5 @@
-# Self-Supervised Learning For Deeper Few-shot Image Classification
-This repository contains a PyTroch implementation of the algorithm presented in the paper Self-Supervised Learning For Deeper Few-shot Image Classification.
+# Self-Supervised Learning For  Few-shot Image Classification
+This repository contains a PyTroch implementation of the algorithm presented in the paper Self-Supervised Learning For Few-shot Image Classification. [https://arxiv.org/abs/1911.06045](https://arxiv.org/abs/1911.06045)
 ## Few-Shot Learning &  Self Supervised Learning
 
 Few-shot image classification aims to robustly classify unseen classes with limited samples for each class. Recent works benefit from the meta-learning process with episodic tasks and can fast adapt to class change from training to testing. Due to the limited number of samples in each task, the initial embedding network for meta learning becomes an essential component of the network and can largely affects the classification performance in practice. Recent advanced methods based on pre-trained embedding network have significantly improved the state-of-the-art results in different few-shot classification datasets. These methods, however, are highly relied on the quality of the embedding network. In this paper, we proposed a novel method which includes a more generalized embedding network under self-supervised learning(SSL) and tackle the 'curse of layers issue' in few-shot learning.
